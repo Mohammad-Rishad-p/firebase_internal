@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72236082653",
+    "project_id": "firestorerecyclerview-979ca",
+    "storage_bucket": "firestorerecyclerview-979ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72236082653:android:3b447882b6fb95ff9f8234",
+        "android_client_info": {
+          "package_name": "ddukk.mvocsad.cusat.all_in_one_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Vg5mmyAQ06di9cBCYVjfogI3l6H9Ikw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72236082653:android:cfcd730c09993e139f8234",
+        "android_client_info": {
+          "package_name": "ddukk.mvocsad.cusat.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Vg5mmyAQ06di9cBCYVjfogI3l6H9Ikw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
